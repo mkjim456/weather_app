@@ -2,6 +2,18 @@
   "configVersion": 2,
   "packages": [
     {
+      "name": "archive",
+      "rootUri": "file:///E:/Program%20Files/src/flutter/.pub-cache/hosted/pub.dartlang.org/archive-3.1.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "args",
+      "rootUri": "file:///E:/Program%20Files/src/flutter/.pub-cache/hosted/pub.dartlang.org/args-2.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "async",
       "rootUri": "file:///E:/Program%20Files/src/flutter/.pub-cache/hosted/pub.dartlang.org/async-2.5.0",
       "packageUri": "lib/",
@@ -38,6 +50,12 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "crypto",
+      "rootUri": "file:///E:/Program%20Files/src/flutter/.pub-cache/hosted/pub.dartlang.org/crypto-3.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "cupertino_icons",
       "rootUri": "file:///E:/Program%20Files/src/flutter/.pub-cache/hosted/pub.dartlang.org/cupertino_icons-1.0.2",
       "packageUri": "lib/",
@@ -64,6 +82,12 @@
     {
       "name": "flutter",
       "rootUri": "file:///E:/Program%20Files/src/flutter/packages/flutter",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "flutter_launcher_icons",
+      "rootUri": "file:///E:/Program%20Files/src/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_launcher_icons-0.9.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -118,6 +142,12 @@
     {
       "name": "http_parser",
       "rootUri": "file:///E:/Program%20Files/src/flutter/.pub-cache/hosted/pub.dartlang.org/http_parser-4.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "image",
+      "rootUri": "file:///E:/Program%20Files/src/flutter/.pub-cache/hosted/pub.dartlang.org/image-3.0.2",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -186,6 +216,12 @@
       "rootUri": "file:///E:/Program%20Files/src/flutter/.pub-cache/hosted/pub.dartlang.org/percent_indicator-2.1.9+1",
       "packageUri": "lib/",
       "languageVersion": "2.7"
+    },
+    {
+      "name": "petitparser",
+      "rootUri": "file:///E:/Program%20Files/src/flutter/.pub-cache/hosted/pub.dartlang.org/petitparser-4.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
     },
     {
       "name": "platform",
@@ -314,13 +350,25 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "xml",
+      "rootUri": "file:///E:/Program%20Files/src/flutter/.pub-cache/hosted/pub.dartlang.org/xml-5.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "yaml",
+      "rootUri": "file:///E:/Program%20Files/src/flutter/.pub-cache/hosted/pub.dartlang.org/yaml-3.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "weather_app",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "2.7"
     }
   ],
-  "generated": "2021-03-26T17:29:22.132862Z",
+  "generated": "2021-03-29T15:39:39.198715Z",
   "generator": "pub",
   "generatorVersion": "2.13.0-107.0.dev"
 }
