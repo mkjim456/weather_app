@@ -1,4 +1,5 @@
 # About the App
+App's name Weather Today
  It's a mobile application which is developed with flutter.
 It shows instant weather condition using gps and weather forecast. 
 # Problems
